@@ -27,9 +27,7 @@ Ensure internal page linking using :ref: instead of plain URLs
 
 Insert images using:
 
-.. image:: images/sample.png
-    :align: center
-    :scale: 60%
+<img width="285" height="84" alt="image" src="https://github.com/user-attachments/assets/7aea8809-9962-4009-ac75-6f447a47a2a5" />
 
 
 Maintain consistent formatting rules (fonts, bullet style, indentation)
